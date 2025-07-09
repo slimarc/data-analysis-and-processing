@@ -35,6 +35,9 @@ As etapas realizadas neste projeto seguem as diretrizes propostas na prática da
 7. **Exportação do Dataset Tratado**  
    - Salvamento do novo arquivo tratado como `iris_tratada.csv`.
 
+8. **Comentários**
+   = Comentários explicando o funcionamento do código.
+   
 ## 📁 Estrutura do Repositório
 
 ```bash
